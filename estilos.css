@@ -1,0 +1,13 @@
+ h1 {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: blanchedalmond;
+     text-anchor: middle;
+     text-decoration: black;
+     size: 80px;
+ }
+ 
+ p {
+     color: cornflowerblue;
+     text-decoration-color: chartreuse;
+     size: 50px;
+ }
